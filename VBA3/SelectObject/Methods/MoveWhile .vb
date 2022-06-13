@@ -1,0 +1,1 @@
+Selection.MoveWhile Cset:=vbTab, Count:=wdForward

@@ -1,0 +1,1 @@
+MsgBox "And the answer is... " & Selection.Calculate

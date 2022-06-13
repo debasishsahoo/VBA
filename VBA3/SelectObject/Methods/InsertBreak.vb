@@ -1,0 +1,1 @@
+Selection.InsertBreak Type:=wdSectionBreakContinuous

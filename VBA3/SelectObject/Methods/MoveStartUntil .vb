@@ -1,0 +1,1 @@
+Selection.MoveStartUntil Cset:="I", Count:=wdBackward

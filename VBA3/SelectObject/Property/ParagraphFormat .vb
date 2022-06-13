@@ -1,0 +1,1 @@
+Selection.ParagraphFormat.Alignment = wdAlignParagraphRight

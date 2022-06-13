@@ -1,0 +1,1 @@
+SelLength = Selection.End - Selection.Start

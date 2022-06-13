@@ -1,0 +1,1 @@
+Selection.Previous(Unit:=wdWord, Count:=1).Select

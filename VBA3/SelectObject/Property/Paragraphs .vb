@@ -1,0 +1,1 @@
+Selection.Paragraphs(1).LineSpacingRule = wdLineSpaceDouble

@@ -1,0 +1,1 @@
+MsgBox "There are " & Selection.Words.Count & " words."

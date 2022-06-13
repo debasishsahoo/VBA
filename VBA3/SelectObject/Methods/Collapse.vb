@@ -1,0 +1,1 @@
+Selection.Collapse Direction:=wdCollapseStart

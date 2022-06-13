@@ -1,0 +1,1 @@
+Msgbox Selection.Document.FullName
