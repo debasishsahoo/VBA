@@ -1,0 +1,1 @@
+MsgBox ActiveDocument.Range.Subdocuments.Count

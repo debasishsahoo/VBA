@@ -1,0 +1,1 @@
+Selection.Range.NoProofing = True

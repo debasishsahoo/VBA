@@ -1,0 +1,1 @@
+Selection.FitTextWidth = CentimetersToPoints(5)

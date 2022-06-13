@@ -1,0 +1,1 @@
+MsgBox ActiveDocument.Paragraphs(1).Range.Locks.Count

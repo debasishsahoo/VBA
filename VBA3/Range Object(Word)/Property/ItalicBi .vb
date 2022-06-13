@@ -1,0 +1,1 @@
+ActiveDocument.Paragraphs(1).Range.ItalicBi = True

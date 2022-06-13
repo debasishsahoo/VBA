@@ -1,0 +1,1 @@
+ActiveDocument.Words(4).EmphasisMark = wdEmphasisMarkOverComma

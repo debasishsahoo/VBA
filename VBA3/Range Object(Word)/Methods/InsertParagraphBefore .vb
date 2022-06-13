@@ -1,0 +1,1 @@
+ActiveDocument.Range.InsertParagraphBefore

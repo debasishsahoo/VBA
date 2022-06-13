@@ -1,0 +1,1 @@
+Selection.Range.InsertAlignmentTab 1, 1

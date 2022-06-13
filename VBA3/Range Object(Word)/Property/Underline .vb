@@ -1,0 +1,1 @@
+ActiveDocument.Words(4).Underline = wdUnderlineDouble

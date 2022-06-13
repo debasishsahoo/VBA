@@ -1,0 +1,1 @@
+Selection.Range.CombineCharacters = True
